@@ -22,7 +22,7 @@ NetAnalyzer is an advanced network packet analyzer designed to capture and analy
 **Clone the Repository**: Use the `git clone` command followed by the URL of your GitHub repository.
 
 ```
-git clone https://github.com/YOUR_USERNAME/NetAnalyzer.git
+git clone https://github.com/HEETLAW/NetAnalyzer.git
 ```
 
 ### Step 2: Navigate to the Repository Directory
